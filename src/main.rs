@@ -1,3 +1,7 @@
+mod easys;
+mod hards;
+mod mediums;
+
 fn main() {
-    println!("Hello, world!");
+    println!("leet deeze nuts baby ...");
 }
